@@ -7,5 +7,5 @@
 
 - [x] Install Git and Python
 - [x] Learn Git and Github
-- [] C++ coding
+- [ ] C++ coding
 
